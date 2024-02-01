@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victoria Dunlap
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victoria Castro
 =======================================================================================================================================
 
-Full Stack Developer
+Data Analyst
 --------------------
 
-Full Stack Web Developer leveraging a degree in PR and Marketing to create beautiful and interactive layouts to reach and engage large audiences. Completed a certificate from the Georgia Institute of Technology in full-stack development. Through this program I have harnessed skills in HTML, CSS, JavaScript, Node.js, React.js, Express.js, Python and SQL. Experienced team player and problem solver with a focus on mobile-first design, ready to chat about what I can do for you!
+Strategic Data Analyst with a solid foundation in PR and Marketing, adept at crafting visually appealing and interactive designs to captivate and connect with expansive audiences. Backed by a comprehensive certificate in full-stack development from the Georgia Institute of Technology, I possess proficiency in an array of technologies, including HTML, CSS, JavaScript, Node.js, React.js, Express.js, Python, SQL, and PBI. Recognized for collaborative teamwork and effective problem-solving, I specialize in mobile-first design principles and am eager to discuss how I can contribute to your objectives.
 
 * 🌍  I'm based in Atlanta, GA
-* ✉️  You can contact me at [victoriaCdunlap@gmail.com](mailto:victoriaCdunlap@gmail.com)
+* ✉️  You can contact me at [vccastro555@gmail.com](mailto:vccastro555@gmail.com)
 * 🧠  I'm learning Data Science and AI
 * 🤝  I'm open to collaborating on Data Science projects
 
